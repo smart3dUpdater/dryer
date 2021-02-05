@@ -1,0 +1,53 @@
+version: "3.1"
+
+services:
+  serial_web:
+    image: dryer:0.0.1
+    container_name: smart_dryer_serial_backup
+    restart: always
+    build: .
+    network_mode: "host"
+    devices:
+      - "/dev/ttyAMA0:/dev/ttyAMA0"
+    volumes:
+      - .:/home/pi
+    stdin_open: true
+    tty: true
+    privileged: true
+    ports:
+      - "8888:8888"
+      - "8887:8887"
+    expose:
+      - "8888"
+      - "8887"
+      - "5556"
+      - "5557"
+    depends_on:
+      - app_web 
+    command: python3 /home/pi/software/serial_web.py
+  app_web:
+    image: dryer:0.0.1
+    container_name: smart_dryer_app_backup
+    restart: always
+    build: .
+    network_mode: "host"
+    volumes:
+      - .:/home/pi
+      - /etc/wpa_supplicant:/etc/wpa_supplicant
+      - /var/run/wpa_supplicant:/var/run/wpa_supplicant
+      - /etc/network/interfaces:/etc/network/interfaces
+      - /etc/dhcpcd.conf:/etc/dhcpcd.conf
+      - /run:/run
+      - /tmp:/tmp
+    stdin_open: true
+    tty: true
+    privileged: true
+    ports:
+      - "8888:8888"
+      - "8887:8887"
+    expose:
+      - "8888"
+      - "8887"
+      - "5556"
+      - "5557"
+    command: python3 /home/pi/software/app_web.py 

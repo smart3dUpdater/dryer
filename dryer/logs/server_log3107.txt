@@ -1,0 +1,302 @@
+2020-07-09 21:21:23,478 INFO Given set active params: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-09 21:21:23,479 INFO Set active confirmed: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-09 22:01:23,259 INFO Given set active params: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-09 22:01:23,262 INFO Set active confirmed: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-09 22:36:37,424 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 45, duration: 40, preheating: 1
+2020-07-09 22:36:37,426 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 45, duration: 40, preheating: 1
+2020-07-10 13:55:06,118 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 80, duration: 40, preheating: 8
+2020-07-10 13:55:06,120 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 80, duration: 40, preheating: 8
+2020-07-10 14:34:15,475 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 80, duration: 40, preheating: 8
+2020-07-10 14:34:15,476 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 80, duration: 40, preheating: 8
+2020-07-10 14:51:16,715 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 80, duration: 40, preheating: 8
+2020-07-10 14:51:16,717 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 80, duration: 40, preheating: 8
+2020-07-10 15:09:12,498 INFO Given set active params: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-10 15:09:12,499 INFO Set active confirmed: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-10 15:11:40,898 INFO Given set active params: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-10 15:11:40,899 INFO Set active confirmed: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-10 15:33:51,244 INFO Given set active params: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-10 15:33:51,246 INFO Set active confirmed: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-10 16:39:08,714 INFO Given set active params: subcicles: 30, pressure: 500, temperature: 65, duration: 40, preheating: 8
+2020-07-10 16:39:08,717 INFO Set active confirmed: subcicles: 30, pressure: 500, temperature: 65, duration: 40, preheating: 8
+2020-07-13 13:53:46,745 INFO Given set active params: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-13 13:53:46,748 INFO Set active confirmed: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-13 13:56:52,420 INFO Given set active params: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-13 13:56:52,421 INFO Set active confirmed: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-13 17:51:56,174 INFO Given set active params: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-13 17:51:56,175 INFO Set active confirmed: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-13 17:53:21,360 INFO Given set active params: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-13 17:53:21,361 INFO Set active confirmed: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-13 17:53:32,312 INFO Given set active params: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-13 17:53:32,313 INFO Set active confirmed: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-13 21:41:39,219 INFO Given set active params: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-13 21:41:39,221 INFO Set active confirmed: subcicles: 3, pressure: 550, temperature: 45, duration: 30, preheating: 10
+2020-07-13 21:47:39,627 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 45, duration: 40, preheating: 1
+2020-07-13 21:47:39,628 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 45, duration: 40, preheating: 1
+2020-07-14 11:52:47,038 INFO Given set active params: subcicles: 4, pressure: 350, temperature: 65, duration: 40, preheating: 8
+2020-07-14 11:52:47,039 INFO Set active confirmed: subcicles: 4, pressure: 350, temperature: 65, duration: 40, preheating: 8
+2020-07-14 12:42:40,501 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 45, duration: 40, preheating: 8
+2020-07-14 12:42:40,503 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 45, duration: 40, preheating: 8
+2020-07-14 18:29:54,575 INFO Given set active params: subcicles: 20, pressure: 350, temperature: 79, duration: 40, preheating: 8
+2020-07-14 18:29:54,576 INFO Set active confirmed: subcicles: 20, pressure: 350, temperature: 79, duration: 40, preheating: 8
+2020-07-14 21:26:15,484 INFO Given set active params: subcicles: 20, pressure: 350, temperature: 79, duration: 40, preheating: 8
+2020-07-14 21:26:15,486 INFO Set active confirmed: subcicles: 20, pressure: 350, temperature: 79, duration: 40, preheating: 8
+2020-07-15 12:49:09,639 INFO Given set active params: subcicles: 20, pressure: 350, temperature: 79, duration: 40, preheating: 8
+2020-07-15 12:49:09,641 INFO Set active confirmed: subcicles: 20, pressure: 350, temperature: 79, duration: 40, preheating: 8
+2020-07-15 12:56:15,453 INFO Given set active params: subcicles: 20, pressure: 350, temperature: 79, duration: 40, preheating: 8
+2020-07-15 12:56:15,454 INFO Set active confirmed: subcicles: 20, pressure: 350, temperature: 79, duration: 40, preheating: 8
+2020-07-15 13:37:12,782 INFO Given set active params: subcicles: 20, pressure: 350, temperature: 79, duration: 40, preheating: 8
+2020-07-15 13:37:12,783 INFO Set active confirmed: subcicles: 20, pressure: 350, temperature: 79, duration: 40, preheating: 8
+2020-07-15 14:55:20,195 INFO Given set active params: subcicles: 20, pressure: 350, temperature: 79, duration: 40, preheating: 8
+2020-07-15 14:55:20,197 INFO Set active confirmed: subcicles: 20, pressure: 350, temperature: 79, duration: 40, preheating: 8
+2020-07-15 18:23:47,893 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 45, duration: 40, preheating: 1
+2020-07-15 18:23:47,896 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 45, duration: 40, preheating: 1
+2020-07-15 19:24:23,056 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 45, duration: 40, preheating: 1
+2020-07-15 19:24:23,059 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 45, duration: 40, preheating: 1
+2020-07-15 19:32:41,836 INFO Given set active params: subcicles: 20, pressure: 500, temperature: 79, duration: 40, preheating: 8
+2020-07-15 19:32:41,837 INFO Set active confirmed: subcicles: 20, pressure: 500, temperature: 79, duration: 40, preheating: 8
+2020-07-17 10:31:40,871 INFO Given set active params: subcicles: 20, pressure: 350, temperature: 79, duration: 40, preheating: 8
+2020-07-17 10:31:40,872 INFO Set active confirmed: subcicles: 20, pressure: 350, temperature: 79, duration: 40, preheating: 8
+2020-07-17 10:59:11,630 INFO Given set active params: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-17 10:59:11,633 INFO Set active confirmed: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-17 11:19:59,921 INFO Given set active params: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-17 11:19:59,924 INFO Set active confirmed: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-17 11:28:44,085 INFO Given set active params: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-17 11:28:44,086 INFO Set active confirmed: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-17 15:21:59,104 INFO Given set active params: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-17 15:21:59,107 INFO Set active confirmed: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-17 15:25:12,900 INFO Given set active params: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-17 15:25:12,901 INFO Set active confirmed: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-22 15:00:01,438 INFO Given set active params: subcicles: 4, pressure: 450, temperature: 45, duration: 30, preheating: 10
+2020-07-22 15:00:01,441 INFO Set active confirmed: subcicles: 4, pressure: 450, temperature: 45, duration: 30, preheating: 10
+2020-07-22 16:09:50,970 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 2
+2020-07-22 16:09:50,973 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 2
+2020-07-24 15:25:43,160 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-24 15:25:43,162 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-24 15:26:57,093 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-24 15:26:57,094 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-24 15:27:06,307 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-24 15:27:06,308 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-24 15:27:41,505 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-24 15:27:41,506 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-24 15:56:41,153 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-24 15:56:41,156 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-24 17:03:46,936 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-24 17:03:46,938 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-25 12:03:16,948 INFO Given set active params: subcicles: 20, pressure: 400, temperature: 79, duration: 40, preheating: 2
+2020-07-25 12:03:16,950 INFO Set active confirmed: subcicles: 20, pressure: 400, temperature: 79, duration: 40, preheating: 2
+2020-07-25 12:04:04,270 INFO Given set active params: subcicles: 50, pressure: 400, temperature: 79, duration: 40, preheating: 2
+2020-07-25 12:04:04,271 INFO Set active confirmed: subcicles: 50, pressure: 400, temperature: 79, duration: 40, preheating: 2
+2020-07-25 12:05:54,118 INFO Given set active params: subcicles: 50, pressure: 400, temperature: 79, duration: 40, preheating: 2
+2020-07-25 12:05:54,119 INFO Set active confirmed: subcicles: 50, pressure: 400, temperature: 79, duration: 40, preheating: 2
+2020-07-25 12:24:39,027 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-25 12:24:39,029 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-25 12:28:04,262 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-25 12:28:04,264 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-25 12:29:40,954 INFO Given set active params: subcicles: 30, pressure: 400, temperature: 79, duration: 40, preheating: 1
+2020-07-25 12:29:40,955 INFO Set active confirmed: subcicles: 30, pressure: 400, temperature: 79, duration: 40, preheating: 1
+2020-07-27 08:52:34,806 INFO Given set active params: subcicles: 4, pressure: 400, temperature: 79, duration: 20, preheating: 8
+2020-07-27 08:52:34,808 INFO Set active confirmed: subcicles: 4, pressure: 400, temperature: 79, duration: 20, preheating: 8
+2020-07-27 09:22:03,912 INFO Given set active params: subcicles: 4, pressure: 400, temperature: 79, duration: 8, preheating: 8
+2020-07-27 09:22:03,915 INFO Set active confirmed: subcicles: 4, pressure: 400, temperature: 79, duration: 8, preheating: 8
+2020-07-27 16:35:33,708 INFO Given set active params: subcicles: 4, pressure: 450, temperature: 45, duration: 30, preheating: 10
+2020-07-27 16:35:33,710 INFO Set active confirmed: subcicles: 4, pressure: 450, temperature: 45, duration: 30, preheating: 10
+2020-07-28 07:22:20,413 INFO Given set active params: subcicles: 4, pressure: 400, temperature: 75, duration: 40, preheating: 8
+2020-07-28 07:22:20,415 INFO Set active confirmed: subcicles: 4, pressure: 400, temperature: 75, duration: 40, preheating: 8
+2020-07-28 07:57:37,062 INFO Given set active params: subcicles: 4, pressure: 400, temperature: 75, duration: 40, preheating: 8
+2020-07-28 07:57:37,064 INFO Set active confirmed: subcicles: 4, pressure: 400, temperature: 75, duration: 40, preheating: 8
+2020-07-28 08:01:03,621 INFO Given set active params: subcicles: 4, pressure: 400, temperature: 75, duration: 40, preheating: 8
+2020-07-28 08:01:03,623 INFO Set active confirmed: subcicles: 4, pressure: 400, temperature: 75, duration: 40, preheating: 8
+2020-07-28 13:56:55,257 INFO Entro en PH
+2020-07-28 13:56:55,395 INFO Entro en PH
+2020-07-28 14:09:02,781 INFO Entro en PH
+2020-07-28 14:16:47,732 INFO Entro en PH
+2020-07-28 14:25:50,039 INFO Entro en PH
+2020-07-28 14:26:27,730 INFO Entro en PH
+2020-07-28 14:29:52,099 INFO Given set active params: subcicles: 2, pressure: 600, temperature: 45, duration: 1, preheating: 1
+2020-07-28 14:29:52,100 INFO Set active confirmed: subcicles: 2, pressure: 600, temperature: 45, duration: 1, preheating: 1
+2020-07-28 14:31:07,723 INFO Entro en STB
+2020-07-28 14:31:22,752 INFO Entro en STB
+2020-07-28 14:43:14,525 INFO Entro en PH
+2020-07-28 15:16:05,929 INFO Entro en PH
+2020-07-28 15:16:06,068 INFO Entro en PH
+2020-07-28 15:18:10,240 INFO Given set active params: subcicles: 2, pressure: 600, temperature: 50, duration: 1, preheating: 2
+2020-07-28 15:18:10,241 INFO Set active confirmed: subcicles: 2, pressure: 600, temperature: 50, duration: 1, preheating: 2
+2020-07-28 15:18:53,162 INFO Entro en PH
+2020-07-28 15:22:23,165 INFO Entro en STB
+2020-07-28 15:25:09,619 INFO Given set active params: subcicles: 2, pressure: 600, temperature: 50, duration: 3, preheating: 2
+2020-07-28 15:25:09,620 INFO Set active confirmed: subcicles: 2, pressure: 600, temperature: 50, duration: 3, preheating: 2
+2020-07-28 15:26:28,166 INFO Entro en STB
+2020-07-28 15:40:02,521 INFO Given set active params: subcicles: 2, pressure: 600, temperature: 50, duration: 3, preheating: 2
+2020-07-28 15:40:02,522 INFO Set active confirmed: subcicles: 2, pressure: 600, temperature: 50, duration: 3, preheating: 2
+2020-07-28 15:40:58,168 INFO Entro en STB
+2020-07-28 15:55:35,477 INFO Entro en DRY
+2020-07-28 15:58:50,023 INFO Given set active params: subcicles: 2, pressure: 600, temperature: 50, duration: 1, preheating: 1
+2020-07-28 15:58:50,025 INFO Set active confirmed: subcicles: 2, pressure: 600, temperature: 50, duration: 1, preheating: 1
+2020-07-28 16:01:23,170 INFO Entro en DRY
+2020-07-28 16:14:58,170 INFO Entro en PH
+2020-07-28 16:17:08,171 INFO Entro en PH
+2020-07-28 16:20:20,096 INFO Entro en PH
+2020-07-28 16:21:59,829 INFO Given set active params: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-28 16:21:59,830 INFO Set active confirmed: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-28 16:25:03,166 INFO Entro en DRY
+2020-07-28 16:25:33,163 INFO Entro en DRY
+2020-07-28 16:25:53,162 INFO Entro en DRY
+2020-07-28 16:26:25,472 INFO Entro en CL
+2020-07-28 16:28:13,356 INFO Entro en CL
+2020-07-28 16:30:48,165 INFO Entro en STB
+2020-07-28 16:36:03,168 INFO Entro en PH
+2020-07-28 16:43:42,854 INFO Given set active params: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-28 16:43:42,857 INFO Set active confirmed: subcicles: 4, pressure: 600, temperature: 45, duration: 1, preheating: 8
+2020-07-28 16:45:43,240 INFO Given set active params: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-28 16:45:43,241 INFO Set active confirmed: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-28 17:23:46,181 INFO Entro en PH
+2020-07-28 17:25:22,305 INFO Entro en PH
+2020-07-28 17:26:03,849 INFO Entro en PH
+2020-07-28 17:26:18,854 INFO Entro en PH
+2020-07-28 17:26:21,762 INFO Given set active params: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-28 17:26:21,763 INFO Set active confirmed: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-28 17:28:13,849 INFO Entro en STB
+2020-07-28 17:29:23,706 INFO Entro en DRY
+2020-07-28 17:46:23,847 INFO Entro en PH
+2020-07-28 17:49:15,768 INFO Entro en PH
+2020-07-28 17:50:48,846 INFO Entro en PH
+2020-07-28 17:51:32,110 INFO Entro en PH
+2020-07-28 17:53:53,857 INFO Entro en PH
+2020-07-28 17:54:36,651 INFO Entro en PH
+2020-07-28 17:55:53,971 INFO Entro en PH
+2020-07-28 18:00:51,160 INFO Entro en PH
+2020-07-28 18:01:31,012 INFO Entro en PH
+2020-07-28 18:04:26,155 INFO Entro en PH
+2020-07-28 18:04:48,843 INFO Entro en PH
+2020-07-28 18:04:57,168 INFO Entro en PH
+2020-07-28 18:05:26,871 INFO Given set active params: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-28 18:05:26,872 INFO Set active confirmed: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-28 18:06:53,847 INFO Entro en STB
+2020-07-28 18:07:12,573 INFO Entro en STB
+2020-07-28 18:08:49,997 INFO Entro en PH
+2020-07-28 18:10:06,092 INFO Entro en PH
+2020-07-28 18:10:41,546 INFO Given set active params: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-28 18:10:41,547 INFO Set active confirmed: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-28 18:17:18,850 INFO Entro en CL
+2020-07-28 18:24:53,851 INFO Entro en PH
+2020-07-29 11:02:45,090 INFO PH - send TEMP
+2020-07-29 11:02:45,228 INFO PH - send TEMP
+2020-07-29 11:05:44,578 INFO Given set active params: subcicles: 50, pressure: 600, temperature: 45, duration: 1, preheating: 1
+2020-07-29 11:05:44,579 INFO Set active confirmed: subcicles: 50, pressure: 600, temperature: 45, duration: 1, preheating: 1
+2020-07-29 11:08:34,054 INFO Given set active params: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-29 11:08:34,055 INFO Set active confirmed: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-29 11:23:28,458 INFO Given set active params: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-29 11:23:28,459 INFO Set active confirmed: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-29 11:24:03,989 INFO STB - send TEMP
+2020-07-29 11:25:23,988 INFO DRY - send TEMP PREASSURE
+2020-07-29 11:35:28,459 INFO PH - send TEMP
+2020-07-29 11:38:09,529 INFO Given set active params: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-29 11:38:09,530 INFO Set active confirmed: subcicles: 2, pressure: 800, temperature: 50, duration: 1, preheating: 1
+2020-07-29 11:38:39,902 INFO PH - send TEMP
+2020-07-29 11:39:14,895 INFO STB - send TEMP
+2020-07-29 11:40:14,893 INFO DRY - send TEMP PREASSURE
+2020-07-29 11:42:29,896 INFO DRY - send TEMP PREASSURE
+2020-07-29 11:47:07,200 INFO STB - send TEMP
+2020-07-29 11:51:12,202 INFO CL
+2020-07-29 12:18:09,897 INFO PH - send TEMP
+2020-07-29 12:23:54,900 INFO PH - send TEMP
+2020-07-29 15:02:42,189 INFO PH - send TEMP
+2020-07-29 15:03:18,666 INFO PH - send TEMP
+2020-07-29 15:04:41,644 INFO PH - send TEMP
+2020-07-29 15:05:20,962 INFO Given set active params: subcicles: 3, pressure: 600, temperature: 50, duration: 5, preheating: 5
+2020-07-29 15:05:20,963 INFO Set active confirmed: subcicles: 3, pressure: 600, temperature: 50, duration: 5, preheating: 5
+2020-07-29 15:05:35,972 INFO PH - send TEMP
+2020-07-29 15:06:15,972 INFO PH - send TEMP
+2020-07-29 15:08:48,669 INFO STB - send TEMP
+2020-07-29 15:10:50,976 INFO STB - send TEMP
+2020-07-29 15:11:18,674 INFO STB - send TEMP
+2020-07-29 15:12:40,715 INFO DRY - send TEMP PREASSURE
+2020-07-29 15:13:30,971 INFO DRY - send TEMP PREASSURE
+2020-07-29 15:14:08,671 INFO DRY - send TEMP PREASSURE
+2020-07-29 15:15:43,666 INFO DRY - send TEMP PREASSURE
+2020-07-29 15:17:08,673 INFO DRY - send TEMP PREASSURE
+2020-07-29 15:20:03,672 INFO DRY - send TEMP PREASSURE
+2020-07-29 15:21:32,667 INFO DRY - send TEMP PREASSURE
+2020-07-29 15:22:03,669 INFO DRY - send TEMP PREASSURE
+2020-07-29 15:25:25,156 INFO CL
+2020-07-29 15:32:30,973 INFO STB - send TEMP
+2020-07-29 15:35:25,987 INFO STB - send TEMP
+2020-07-29 15:37:11,428 INFO STB - send TEMP
+2020-07-29 15:37:38,668 INFO STB - send TEMP
+2020-07-29 15:38:09,607 INFO DRY - send TEMP PREASSURE
+2020-07-29 15:41:25,982 INFO DRY - send TEMP PREASSURE
+2020-07-29 15:45:50,985 INFO DRY - send TEMP PREASSURE
+2020-07-29 15:45:57,173 INFO DRY - send TEMP PREASSURE
+2020-07-29 15:47:18,676 INFO DRY - send TEMP PREASSURE
+2020-07-29 15:54:06,735 INFO CL
+2020-07-29 16:04:43,672 INFO DRY - send TEMP PREASSURE
+2020-07-29 16:20:37,087 INFO PH - send TEMP
+2020-07-29 16:23:02,795 INFO PH - send TEMP
+2020-07-29 16:33:47,298 INFO PH - send TEMP
+2020-07-29 16:35:07,481 INFO PH - send TEMP
+2020-07-29 16:44:07,147 INFO PH - send TEMP
+2020-07-29 16:44:33,840 INFO PH - send TEMP
+2020-07-29 16:47:08,845 INFO PH - send TEMP
+2020-07-29 16:49:22,209 INFO PH - send TEMP
+2020-07-29 16:54:53,672 INFO PH - send TEMP
+2020-07-29 16:56:59,033 INFO PH - send TEMP
+2020-07-29 17:06:32,726 INFO Given set active params: subcicles: 2, pressure: 600, temperature: 50, duration: 1, preheating: 1
+2020-07-29 17:06:32,727 INFO Set active confirmed: subcicles: 2, pressure: 600, temperature: 50, duration: 1, preheating: 1
+2020-07-29 17:07:30,515 INFO PH - send TEMP
+2020-07-29 17:11:12,787 INFO Given set active params: subcicles: 2, pressure: 600, temperature: 50, duration: 1, preheating: 1
+2020-07-29 17:11:12,788 INFO Set active confirmed: subcicles: 2, pressure: 600, temperature: 50, duration: 1, preheating: 1
+2020-07-29 17:35:03,700 INFO PH - send TEMP
+2020-07-29 17:39:28,660 INFO PH - send TEMP
+2020-07-30 07:52:09,347 INFO PH - send TEMP
+2020-07-30 07:55:43,203 INFO Given set active params: subcicles: 3, pressure: 400, temperature: 73, duration: 40, preheating: 8
+2020-07-30 07:55:43,204 INFO Set active confirmed: subcicles: 3, pressure: 400, temperature: 73, duration: 40, preheating: 8
+2020-07-30 10:39:19,338 INFO PH - send TEMP
+2020-07-30 10:39:25,442 INFO PH - send TEMP
+2020-07-30 10:52:16,404 INFO PH - send TEMP
+2020-07-30 10:52:16,537 INFO PH - send TEMP
+2020-07-30 10:52:43,544 INFO PH - send TEMP
+2020-07-30 10:52:47,586 INFO PH - send TEMP
+2020-07-30 10:53:40,595 INFO Given set active params: subcicles: 3, pressure: 750, temperature: 60, duration: 5, preheating: 5
+2020-07-30 10:53:40,596 INFO Set active confirmed: subcicles: 3, pressure: 750, temperature: 60, duration: 5, preheating: 5
+2020-07-30 10:53:53,925 INFO Given set active params: subcicles: 3, pressure: 750, temperature: 60, duration: 5, preheating: 5
+2020-07-30 10:53:53,926 INFO Set active confirmed: subcicles: 3, pressure: 750, temperature: 60, duration: 5, preheating: 5
+2020-07-30 10:59:45,347 INFO PH - send TEMP
+2020-07-30 11:01:07,844 INFO PH - send TEMP
+2020-07-30 11:03:25,196 INFO PH - send TEMP
+2020-07-30 11:13:47,351 INFO PH - send TEMP
+2020-07-30 11:14:20,443 INFO Given set active params: subcicles: 3, pressure: 400, temperature: 73, duration: 40, preheating: 8
+2020-07-30 11:14:20,444 INFO Set active confirmed: subcicles: 3, pressure: 400, temperature: 73, duration: 40, preheating: 8
+2020-07-30 13:59:15,068 INFO PH - send TEMP
+2020-07-30 13:59:29,780 INFO PH - send TEMP
+2020-07-30 13:59:58,611 INFO Given set active params: subcicles: 4, pressure: 450, temperature: 45, duration: 30, preheating: 10
+2020-07-30 13:59:58,612 INFO Set active confirmed: subcicles: 4, pressure: 450, temperature: 45, duration: 30, preheating: 10
+2020-07-30 14:19:29,982 INFO PH - send TEMP
+2020-07-30 14:19:39,032 INFO PH - send TEMP
+2020-07-30 14:24:02,890 INFO Given set active params: subcicles: 3, pressure: 600, temperature: 73, duration: 10, preheating: 2
+2020-07-30 14:24:02,891 INFO Set active confirmed: subcicles: 3, pressure: 600, temperature: 73, duration: 10, preheating: 2
+2020-07-30 15:29:45,579 INFO Given set active params: subcicles: 3, pressure: 600, temperature: 73, duration: 10, preheating: 2
+2020-07-30 15:29:45,579 INFO Set active confirmed: subcicles: 3, pressure: 600, temperature: 73, duration: 10, preheating: 2
+2020-07-30 15:47:59,399 INFO PH - send TEMP
+2020-07-30 15:49:18,308 INFO Given set active params: subcicles: 2, pressure: 600, temperature: 50, duration: 1, preheating: 1
+2020-07-30 15:49:18,309 INFO Set active confirmed: subcicles: 2, pressure: 600, temperature: 50, duration: 1, preheating: 1
+2020-07-30 16:09:28,653 INFO Given set active params: subcicles: 4, pressure: 450, temperature: 45, duration: 30, preheating: 10
+2020-07-30 16:09:28,654 INFO Set active confirmed: subcicles: 4, pressure: 450, temperature: 45, duration: 30, preheating: 10
+2020-07-30 16:12:33,761 INFO Given set active params: subcicles: 2, pressure: 700, temperature: 70, duration: 10, preheating: 5
+2020-07-30 16:12:33,762 INFO Set active confirmed: subcicles: 2, pressure: 700, temperature: 70, duration: 10, preheating: 5
+2020-07-30 16:21:52,352 INFO Given set active params: subcicles: 10, pressure: 400, temperature: 80, duration: 40, preheating: 10
+2020-07-30 16:21:52,353 INFO Set active confirmed: subcicles: 10, pressure: 400, temperature: 80, duration: 40, preheating: 10
+2020-07-30 19:10:14,111 INFO CL
+2020-07-30 20:10:16,113 INFO STB - send TEMP
+2020-07-30 21:07:52,131 INFO DRY - send TEMP PREASSURE
+2020-07-30 21:10:04,111 INFO DRY - send TEMP PREASSURE
+2020-07-30 21:46:05,161 INFO DRY - send TEMP PREASSURE
+2020-07-30 21:53:11,497 INFO DRY - send TEMP PREASSURE
+2020-07-30 22:01:14,167 INFO DRY - send TEMP PREASSURE
+2020-07-30 22:30:56,087 INFO DRY - send TEMP PREASSURE
+2020-07-30 22:41:48,111 INFO DRY - send TEMP PREASSURE
+2020-07-30 22:41:48,248 INFO DRY - send TEMP PREASSURE
+2020-07-30 23:12:12,309 INFO DRY - send TEMP PREASSURE
+2020-07-31 08:49:08,955 INFO PH - send TEMP
+2020-07-31 09:00:46,966 INFO PH - send TEMP
+2020-07-31 09:01:42,773 INFO Given set active params: subcicles: 2, pressure: 600, temperature: 50, duration: 1, preheating: 1
+2020-07-31 09:01:42,774 INFO Set active confirmed: subcicles: 2, pressure: 600, temperature: 50, duration: 1, preheating: 1
