@@ -1,4 +1,0 @@
-tornado
-pyudev
-pyzmq
-pyserial

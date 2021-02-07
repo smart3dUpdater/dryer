@@ -1,2 +1,0 @@
-pip install PyYAML=5.4.1
-sudo apt install gnupg2 pass
