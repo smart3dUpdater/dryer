@@ -2,7 +2,7 @@ version: "3.1"
 
 services:
   serial_web:
-    image: dryer:latest
+    image: smart3dupdater/dryer:latest
     container_name: smart_dryer_serial
     restart: always
     build: .
@@ -10,7 +10,9 @@ services:
     devices:
       - "/dev/ttyAMA0:/dev/ttyAMA0"
     volumes:
-      - .:/home/pi
+      - /home/pi/config-files:/home/pi/config-files
+      - /home/pi/db:/home/pi/db
+      - /home/pi/logs:/home/pi/logs
     stdin_open: true
     tty: true
     privileged: true
@@ -26,13 +28,15 @@ services:
       - app_web 
     command: python3 /home/pi/software/serial_web.py
   app_web:
-    image: dryer:latest
+    image: smart3dupdater/dryer:latest
     container_name: smart_dryer_app
     restart: always
     build: .
     network_mode: "host"
     volumes:
-      - .:/home/pi
+      - /home/pi/config-files:/home/pi/config-files
+      - /home/pi/db:/home/pi/db
+      - /home/pi/logs:/home/pi/logs
       - /etc/wpa_supplicant:/etc/wpa_supplicant
       - /var/run/wpa_supplicant:/var/run/wpa_supplicant
       - /etc/network/interfaces:/etc/network/interfaces
