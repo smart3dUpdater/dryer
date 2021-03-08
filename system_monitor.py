@@ -20,29 +20,37 @@ from configparser import ConfigParser
 start_time = 0
 end_time = 0
 
-
-
-
 def health_status():
-    services_running = u.check_health()
-    services_configurated = u.get_config_services()
-    u.debug_print(f'services_running: {services_running}')
-    u.debug_print(f'services_configurated: {services_configurated}')
-    for service in services_running:
-        u.debug_print(f'Servicio: {service}') 
-        if services_running[service] != 'UP':
-            u.debug_print(f'Service: {service} is working with failures')
-            return False
-    services = services_running.keys()
-    for service in services_configurated:
-        if service not in services:
-            services_configurated = u.get_config_services(file=u.BACKUP_PATH)
-            for service in services_configurated:
-                if service not in services:
-                    u.debug_print(f'Service: {service} IS NOT RUNIING!')
-                    return False
-    u.debug_print('The services are runnig ok' )
-    return True
+    m = u.get_config(config="debug")
+    if m.get("monitoring_health") == "True":
+        ping_to_app = u.bash_command('nc -zv localhost 8887')
+        ping_to_serial = u.bash_command('nc -zv localhost 8888')
+        if ('succeeded!' in ping_to_app.get('error'))and('succeeded!' in ping_to_serial.get('error')):
+            # bash_command devuelve el estado por el paquete de error para este comando...
+            u.debug_print('The services are runnig ok' )
+            return True
+        services_running = u.check_health()
+        services_configurated = u.get_config_services()
+        u.debug_print(f'services_running: {services_running}')
+        u.debug_print(f'services_configurated: {services_configurated}')
+        for service in services_running:
+            u.debug_print(f'Servicio: {service}') 
+            if services_running[service] != 'UP':
+                u.debug_print(f'Service: {service} is working with failures')
+                return False
+        services = services_running.keys()
+        for service in services_configurated:
+            if service not in services:
+                services_configurated = u.get_config_services(file=u.BACKUP_PATH)
+                for service in services_configurated:
+                    if service not in services:
+                        u.debug_print(f'Service: {service} IS NOT RUNIING!')
+                        return False
+        u.debug_print('The services are runnig ok' )
+        return True
+    else:
+        print(f"Monitoring health status: ",m.get("monitoring_health"))
+        return True
 
 if __name__ == '__main__':
     u.debug_print('Reset Flags ... ')

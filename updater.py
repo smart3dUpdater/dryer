@@ -178,28 +178,30 @@ def check_update_status():
         print_error(error)
         return {'out' : '','error':error}
 
-def get_config():
+def get_config(config = "docker"):
     """
     Devuelve un diccionario con todas las configuraciones de \
-    Docker, las que dejamos por defecto son:
+    Docker (por defecto), las que dejamos por defecto son:
     \n`docker_id` es el ID de la cuenta
     \n`docker_pass` es el pass en la cuenta
     \n`docker_repo` es el repositorio en docker hub
     \nSi encuentra una excepción, devuelve un diccionario con la key\
     `error` y su contenido.
+    \nPara traer otra configuración tenemos que indicarlo con el parámetro\
+    `config`
     """
     try:
         config_object = ConfigParser()
         config_object.read(CONFIG_PATH)
-        d = config_object["docker"]
+        d = config_object[config]
         d_keys = [key for key in d]
         d_configs = {}
         for value in d_keys:
             d_configs[str(value)] = d[str(value)]
-        debug_print('Get docker config files ... OK', end='')
+        debug_print('Get config files ... OK', end='')
         return d_configs
     except Exception as error:
-        debug_print('Get docker config files ...', end='')
+        debug_print('Get config files ...', end='')
         print_error(f'Fail\n{error}')
         return {"error": error}
 
@@ -487,6 +489,8 @@ def restart_services(file="default"):
                     print_warning('Warning, runing on backup mode')
                     return {'out': 'Warning, runing on backup mode', 'error': ''}
                 print_acert('Runing latest')
+                bash_command('rm -R ~/.config/chromium/Default/ ')
+                bash_command('rm -R ~/.cache/chromium')
                 return {'out': 'runing latest', 'error': ''}
             else:
                 raise Exception(f'error to read the docker-compose file')
